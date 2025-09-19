@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "934031214547",
+    "project_id": "mobilutveckling-465be",
+    "storage_bucket": "mobilutveckling-465be.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934031214547:android:0453dd998ae0f7dcfc9126",
+        "android_client_info": {
+          "package_name": "se.gritacademy.uppgift4_travel_journal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDexYbWhKSGx7FSXt71x07EqUnNcXPyjQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
